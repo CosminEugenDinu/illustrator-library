@@ -1,0 +1,30 @@
+{
+ "settings": {
+  "presetName": "vinyl",
+  "units": "mm",
+  "closeDocument": false,
+  "openSvg": false
+ },
+ "material": {
+  "type": "roll",
+  "width": 1015,
+  "lateralMargin": 0,
+  "topMargin": 10,
+  "bottomMargin": 10,
+  "length": ""
+ },
+ "cover": {
+  "width": 500,
+  "height": 336,
+  "widthCornerDistance": 30,
+  "heightCornerDistance": 30,
+  "gap": 1,
+  "maximumSegmentLength": 80,
+  "gapOffset": 5
+ },
+ "textInfo": {
+  "show": true,
+  "size": 5,
+  "margins": 5
+ }
+}
